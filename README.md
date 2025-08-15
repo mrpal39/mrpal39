@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Thinkdatalabs](www.dollarparfoot.com)
+- 🔭 I’m currently working on NiragInfoTech
 
 - 🌱 I’m currently learning **Software Design**
 
-- 👯 I’m looking to collaborate on [Pardise tech soft](Donkeydao.net)
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with [Thinkdatalabs](algoFlip.net)
+- 🤝 I’m looking for help with 
 
 - 👨‍💻 All of my projects are available at [www.github.com/mrpal39](www.github.com/mrpal39)
 
