@@ -1,39 +1,48 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/mrpal39">Rahul Pal</a> 👋</h1>
-  <p>
-    <strong>Full Stack Engineer • AI Agent Architect • Systems Engineer</strong>
-  </p>
-  <p>
-    Specializing in <strong>Autonomous AI Agents</strong>, <strong>Model Context Protocol (MCP)</strong>, <strong>Enterprise RAG Systems</strong>, and <strong>Multi-Tenant SaaS Backends</strong>.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=180&section=header&text=Rahul%20Pal&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Agent%20Architect%20•%20Systems%20Engineer&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Backend+Systems+Architect;Autonomous+AI+Agents+%26+MCP+Builder;Enterprise+Codebase+RAG+Specialist;Multi-Tenant+SaaS+%26+Distributed+Systems" alt="Typing SVG" />
+    </a>
   </p>
 
-  <p>
-    <a href="https://www.dev-code.in"><img src="https://img.shields.io/badge/Website-dev--code.in-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <p align="center">
+    <a href="https://www.dev-code.in"><img src="https://img.shields.io/badge/Portfolio-dev--code.in-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/mrpal39/"><img src="https://img.shields.io/badge/LinkedIn-Rahul%20Pal-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://twitter.com/mrpal39"><img src="https://img.shields.io/badge/Twitter-@mrpal39-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
     <a href="mailto:rp9545416@gmail.com"><img src="https://img.shields.io/badge/Email-rp9545416@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <p>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mrpal39&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Profile
 
-I am a **systems-minded full stack engineer and AI builder** architecting production-grade platforms at the intersection of **scalable backends**, **autonomous software development agents**, and **retrieval-augmented generation (RAG)**.
+I am a **systems-minded full stack engineer and AI builder** with deep experience architecting scalable, resilient, and enterprise-grade software. I specialize in turning complex domain rules and messy business requirements into clean, production-ready distributed architectures.
 
-- 🤖 **AI & Agents:** Building autonomous software development agents, multi-agent swarms, Model Context Protocol (MCP) tool servers, and self-healing code evaluation loops.
-- 🔍 **RAG & Search:** Designing hybrid dense/sparse RAG pipelines with semantic chunking, cross-encoder reranking, and knowledge graphs.
-- 🏢 **Distributed Backends:** Multi-tenant SaaS, schema/tenant data isolation, JWT/RBAC security, and real-time WebSockets at scale.
-- 📍 **Based in:** Chandigarh, India.
-- 💬 **Ask me about:** AI Agents, MCP Servers, RAG Pipelines, Python (FastAPI/Django), pgvector, Redis, System Architecture.
+- 🤖 **Autonomous AI Agents:** Building multi-agent task execution swarms (Planner, Coder, Reviewer, Tester) with **Model Context Protocol (MCP)** tool servers and self-correcting evaluation loops.
+- 🔍 **Enterprise RAG Systems:** Architecting hybrid dense/sparse code retrieval pipelines with AST-aware semantic chunking, cross-encoder reranking, and pgvector.
+- 🏢 **Multi-Tenant SaaS Backends:** Engineered schema & row-level tenant data isolation, dynamic subdomains, JWT token lifecycle with `jti` revocation, and granular RBAC.
+- ⚡ **Real-Time Systems:** Low-latency WebSockets with stateful Redis backends, Pub/Sub channels, and background job workers (Celery).
+- 📍 **Location:** Chandigarh, India.
+- 💬 **Collaborations:** Open to backend-heavy SaaS engineering, AI Agent/MCP development, and technical consulting.
 
 ---
 
-### 🛠️ Tech Stack &amp; Tools
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrpal39&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🛠️ Comprehensive Tech Stack
 
 #### **🤖 AI, LLMs &amp; Autonomous Agents**
 <p>
@@ -47,7 +56,7 @@ I am a **systems-minded full stack engineer and AI builder** architecting produc
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
 </p>
 
-#### **🔍 Vector DBs &amp; Retrieval (RAG)**
+#### **🔍 Vector Databases &amp; Retrieval (RAG)**
 <p>
   <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
   <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square" alt="ChromaDB" />
@@ -57,20 +66,21 @@ I am a **systems-minded full stack engineer and AI builder** architecting produc
   <img src="https://img.shields.io/badge/Cross--Encoder%20Reranking-059669?style=flat-square" alt="Reranking" />
 </p>
 
-#### **⚙️ Backend, Languages &amp; Web**
+#### **⚙️ Backend, Languages &amp; Web Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white" alt="DRF" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-#### **🗄️ Databases, Caching &amp; Queues**
+#### **🗄️ Databases, Caching &amp; Asynchronous Queues**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -81,7 +91,7 @@ I am a **systems-minded full stack engineer and AI builder** architecting produc
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
-#### **☁️ Cloud, DevOps &amp; Protocols**
+#### **☁️ Cloud, DevOps &amp; Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -140,14 +150,17 @@ I am a **systems-minded full stack engineer and AI builder** architecting produc
 
 ---
 
-### 📂 Representative Project Archetypes
+### 📂 Featured Systems &amp; Projects
 
-- 🤖 **Autonomous Coding Agents &amp; MCP Servers**: Tool-calling agents capable of repository code inspection, AST refactoring, and test execution over MCP.
-- 🔍 **Enterprise Codebase RAG Platform**: Semantic code intelligence engine with pgvector/Chroma indexing, symbol graph traversal, and conversational codebase exploration.
-- 🏢 **Multi-Tenant SaaS Backends**: High-throughput FastAPI/Django applications with role-based access control, tenant data isolation, and distributed Redis caches.
-- 💬 **Real-Time Distributed Messaging**: WebSocket + Redis Pub/Sub chat platforms with low-latency delivery, presence, and receipt tracking.
+| Project Area | Description | Primary Technologies |
+|---|---|---|
+| **🤖 Autonomous Agent &amp; MCP Tooling** | Autonomous coding agent orchestrator with test verification loops and FastMCP protocol handlers. | Python, FastMCP, LLM APIs, Docker |
+| **🏢 Multi-Tenant SaaS Backends** | High-throughput backend systems managing multi-tier tenant isolation, dynamic subdomains, and RBAC governance. | Django, FastAPI, PostgreSQL, Redis |
+| **⏰ Enterprise Attendance &amp; Workforce** | End-to-end workforce operations platform with shift scheduling, geofencing, and real-time attendance logs. | Python, React, PostgreSQL, Celery |
+| **🚚 On-Demand Logistics SaaS** | Resilient backend service orchestrating live orders, courier tracking, and payment flows. | FastAPI, PostgreSQL, Redis Pub/Sub, WebSockets |
+| **📱 Cross-Platform Mobile Applications** | Native-feeling React Native client applications with structured navigation and offline-first token flows. | React Native, TypeScript, Redux Toolkit |
 
-Explore all repositories 👉 **https://github.com/mrpal39**
+Explore all public &amp; featured repositories 👉 **[github.com/mrpal39](https://github.com/mrpal39)**
 
 ---
 
@@ -160,6 +173,10 @@ Explore all repositories 👉 **https://github.com/mrpal39**
 
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpal39&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpal39&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="98%" />
 </div>
 
 ---
@@ -178,6 +195,6 @@ I am open to:
   <a href="https://twitter.com/mrpal39"><strong>Follow on X</strong></a>
 </p>
 
-<p align="center">
-  <em>⚡ Fun Fact: I enjoy debugging distributed agent race conditions more than small talk 😄</em>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
