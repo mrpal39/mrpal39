@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/mrpal39">Rahul Pal</a> 👋</h1>
   <p>
-    <strong>Full Stack Engineer &amp; Backend Systems Architect</strong>
+    <strong>Full Stack Engineer • AI Agent Architect • Systems Engineer</strong>
   </p>
   <p>
-    Specializing in <strong>Multi-Tenant SaaS</strong>, <strong>High-Concurrency APIs</strong>, and <strong>Distributed Architectures</strong>.
+    Specializing in <strong>Autonomous AI Agents</strong>, <strong>Model Context Protocol (MCP)</strong>, <strong>Enterprise RAG Systems</strong>, and <strong>Multi-Tenant SaaS Backends</strong>.
   </p>
 
   <p>
@@ -23,24 +23,46 @@
 
 ### 👨‍💻 About Me
 
-I am a **backend-centric full stack engineer** with deep experience architecting scalable, resilient, and enterprise-grade systems. I love turning complex business workflows and messy real-world requirements into clean, performant, and secure architectures.
+I am a **systems-minded full stack engineer and AI builder** architecting production-grade platforms at the intersection of **scalable backends**, **autonomous software development agents**, and **retrieval-augmented generation (RAG)**.
 
-- 🔭 **Focus Areas:** Multi-tenant systems, schema isolation, distributed state, high-throughput APIs.
-- 🏢 **Currently Building:** Enterprise SaaS engines, real-time communication backends, and role-governed applications.
+- 🤖 **AI & Agents:** Building autonomous software development agents, multi-agent swarms, Model Context Protocol (MCP) tool servers, and self-healing code evaluation loops.
+- 🔍 **RAG & Search:** Designing hybrid dense/sparse RAG pipelines with semantic chunking, cross-encoder reranking, and knowledge graphs.
+- 🏢 **Distributed Backends:** Multi-tenant SaaS, schema/tenant data isolation, JWT/RBAC security, and real-time WebSockets at scale.
 - 📍 **Based in:** Chandigarh, India.
-- 💬 **Ask me about:** Python, FastAPI, Django, PostgreSQL, Redis, System Design, JWT/RBAC security patterns.
+- 💬 **Ask me about:** AI Agents, MCP Servers, RAG Pipelines, Python (FastAPI/Django), pgvector, Redis, System Architecture.
 
 ---
 
 ### 🛠️ Tech Stack &amp; Tools
 
-#### **Languages & Frameworks**
+#### **🤖 AI, LLMs &amp; Autonomous Agents**
+<p>
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-black?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4338CA?style=flat-square" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
+</p>
+
+#### **🔍 Vector DBs &amp; Retrieval (RAG)**
+<p>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Hybrid%20Search%20(Dense%20%2B%20Sparse)-2563EB?style=flat-square" alt="Hybrid Search" />
+  <img src="https://img.shields.io/badge/Cross--Encoder%20Reranking-059669?style=flat-square" alt="Reranking" />
+</p>
+
+#### **⚙️ Backend, Languages &amp; Web**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white" alt="DRF" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -48,7 +70,7 @@ I am a **backend-centric full stack engineer** with deep experience architecting
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-#### **Databases, Caching & Queues**
+#### **🗄️ Databases, Caching &amp; Queues**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -59,7 +81,7 @@ I am a **backend-centric full stack engineer** with deep experience architecting
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
-#### **Cloud, DevOps & Infrastructure**
+#### **☁️ Cloud, DevOps &amp; Protocols**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -71,50 +93,61 @@ I am a **backend-centric full stack engineer** with deep experience architecting
 
 ---
 
-### 🧠 Core Architectural Strengths
+### 🧠 Architectural Pillars
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏢 Multi-Tenant SaaS Architecture</h4>
+      <h4>🤖 Autonomous Software Development Agents</h4>
       <ul>
-        <li>Schema & row-level tenant data isolation</li>
-        <li>Dynamic subdomain and tenant resolution</li>
-        <li>Admin, Super-Admin, and Member role governance</li>
-        <li>Isolated vs shared tenant infrastructure</li>
+        <li>Hierarchical multi-agent swarms (Planner, Coder, Reviewer, Tester)</li>
+        <li>Model Context Protocol (MCP) tools for filesystem, terminal, and git</li>
+        <li>Self-correcting code generation with test feedback loops</li>
+        <li>Context-window optimization and progressive skill loading</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔐 Auth, RBAC &amp; API Security</h4>
+      <h4>🔍 Enterprise RAG &amp; Knowledge Retrieval</h4>
       <ul>
-        <li>JWT + secure HTTP-only refresh token lifecycle</li>
-        <li>Instant revocation using Redis-backed <code>jti</code> blacklists</li>
-        <li>Granular Role-Based Access Control (RBAC)</li>
-        <li>Rate limiting, request validation &amp; audit logging</li>
+        <li>Hybrid search: BM25 sparse keyword + dense vector embeddings</li>
+        <li>Context-aware semantic chunking and AST-based code parsing</li>
+        <li>Cross-encoder reranking (Cohere / BGE rerankers) for precision</li>
+        <li>Dynamic metadata filtering and multi-tenant vector isolation</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ High-Throughput &amp; Real-Time</h4>
+      <h4>🏢 Multi-Tenant SaaS Systems</h4>
       <ul>
-        <li>Full-duplex WebSockets with reconnection handling</li>
-        <li>Pub/Sub messaging with Redis &amp; message brokers</li>
-        <li>Background task distribution via Celery &amp; Redis</li>
-        <li>Read-through and write-through caching patterns</li>
+        <li>Schema & row-level tenant data isolation</li>
+        <li>Subdomain tenant routing and resource governance</li>
+        <li>Admin, Super-Admin, and Member RBAC matrix</li>
+        <li>Shared core engine with isolated customer data stores</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📱 Full Stack &amp; Mobile Continuity</h4>
+      <h4>🔐 Auth, Security &amp; Real-Time</h4>
       <ul>
-        <li>Clean decoupled frontend ↔ backend communication</li>
-        <li>React &amp; Next.js SSR/CSR state management</li>
-        <li>React Native mobile integration with robust offline-first UX</li>
-        <li>Contract-driven API schemas (OpenAPI / Swagger)</li>
+        <li>JWT + secure HTTP-only refresh token lifecycle</li>
+        <li>Instant revocation using Redis-backed <code>jti</code> blacklists</li>
+        <li>High-throughput WebSockets with reconnection and presence</li>
+        <li>Rate limiting, request validation &amp; audit logging</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+### 📂 Representative Project Archetypes
+
+- 🤖 **Autonomous Coding Agents &amp; MCP Servers**: Tool-calling agents capable of repository code inspection, AST refactoring, and test execution over MCP.
+- 🔍 **Enterprise Codebase RAG Platform**: Semantic code intelligence engine with pgvector/Chroma indexing, symbol graph traversal, and conversational codebase exploration.
+- 🏢 **Multi-Tenant SaaS Backends**: High-throughput FastAPI/Django applications with role-based access control, tenant data isolation, and distributed Redis caches.
+- 💬 **Real-Time Distributed Messaging**: WebSocket + Redis Pub/Sub chat platforms with low-latency delivery, presence, and receipt tracking.
+
+Explore all repositories 👉 **https://github.com/mrpal39**
 
 ---
 
@@ -134,9 +167,9 @@ I am a **backend-centric full stack engineer** with deep experience architecting
 ### 🤝 Let's Connect &amp; Collaborate
 
 I am open to:
-- Backend-heavy &amp; distributed SaaS projects
-- Architecture reviews and system design consultations
-- High-impact engineering roles &amp; technical collaborations
+- Autonomous Agent, MCP, and GenAI/RAG engineering initiatives
+- Backend-heavy &amp; distributed SaaS architecture consulting
+- High-impact engineering leadership and technical collaborations
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrpal39/"><strong>Connect on LinkedIn</strong></a> •
@@ -146,5 +179,5 @@ I am open to:
 </p>
 
 <p align="center">
-  <em>⚡ Fun Fact: I enjoy debugging distributed race conditions more than small talk 😄</em>
+  <em>⚡ Fun Fact: I enjoy debugging distributed agent race conditions more than small talk 😄</em>
 </p>
